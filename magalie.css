@@ -1,0 +1,36 @@
+h1 {
+   color: pink;
+   background-color: darkmagenta;
+   text-align: center;
+}
+
+
+h1 { 
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Verdana, sans-serif; font-size: 30px; font-style: normal; font-variant: normal; font-weight: bold; line-height: 39px; 
+}
+
+img {
+    width: 450px; 
+}
+
+h2 { 
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Verdana, sans-serif; font-size: 25px; font-style: normal; font-variant: normal; font-weight: 800; line-height: 20px; 
+    text-align: center;
+    color:aquamarine;
+    background-color: dodgerblue;
+}
+
+h3 { 
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Verdana, sans-serif; font-size: 17px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 15.4px; 
+    text-align: center;
+    color: salmon;
+    background-color: palegreen
+} 
+
+p { 
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Verdana, sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px; 
+}
+
+.étape {
+   font-weight:bold;
+}
